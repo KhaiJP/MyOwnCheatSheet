@@ -1,0 +1,8 @@
+{
+  "key1": 1,
+  "hello?": "world!!",
+  "sub_dict": {
+    "sub_key1": 2,
+    "kia?": "ora!!"
+  }
+}
